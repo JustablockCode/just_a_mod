@@ -1,5 +1,8 @@
-# just a mod
-I am justablock creator of Just a mod. 
+# Just A Mod
+Hi, I am justablock creator of Just A Mod. 
+
+
+Just A Mod is a mod with many things like tools, dimensions and blocks.
 
 
 Help us translate mod: https://crowdin.com/project/just-a-mod

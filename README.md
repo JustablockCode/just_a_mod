@@ -9,3 +9,6 @@ Help us translate mod: https://crowdin.com/project/just-a-mod
 
 
 Avaliable on modrinth: https://modrinth.com/mod/just-a-mod-by-justablock
+
+
+Discord: https://discord.gg/9uq26vZnwR

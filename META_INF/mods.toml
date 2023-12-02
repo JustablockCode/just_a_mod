@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+modId="just_a_mod"
+version="0.5.1"
+displayName="Just A Mod"
+credits="Thanks to MCreate from Justablock."
+displayURL="https://discord.gg/9uq26vZnwR"
+logoFile="logo.png"
+authors="Justablock"
+description="Just an easy mod made by justablock!"
+
+[[dependencies.just_a_mod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.just_a_mod]]
+    modId="geckolib"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.just_a_mod]]
+    modId="JEI"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
